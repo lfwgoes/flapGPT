@@ -9,7 +9,7 @@ You can play the game by downloading the index.htl and sprite.png files. By pres
 Have fun and create your own games.
 
 ```html  
-<iframe src="https://raw.githubusercontent.com/lfwgoes/flapGPT/main/index.html" width="200" height="500"></iframe>
+<iframe src="https://lfwgoes.github.io/flapGPT/index.html" width="200" height="500"></iframe>
 ```
 
 ![image](https://github.com/lfwgoes/flapGPT/assets/4827682/16afe21a-53fd-4c98-878d-f987e42ddd78)
