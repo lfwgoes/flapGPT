@@ -7,7 +7,8 @@ After answer all questions, GPT generates the code, which you will need to copy 
 
 You can play the game by downloading the index.htl and sprite.png files. By pressing space, you keep the square-bird flying.
 Have fun and create your own games.
- <iframe src="https://raw.githubusercontent.com/lfwgoes/flapGPT/main/index.html" width="WIDTH" height="HEIGHT"></iframe>
+
+!<iframe src="https://raw.githubusercontent.com/lfwgoes/flapGPT/main/index.html" width="200" height="500"></iframe>
 
 
 ![image](https://github.com/lfwgoes/flapGPT/assets/4827682/16afe21a-53fd-4c98-878d-f987e42ddd78)
